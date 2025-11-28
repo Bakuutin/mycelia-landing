@@ -1,7 +1,7 @@
 export default function GitHubCorner() {
   return (
     <a 
-      href="https://github.com/Bakuutin/mycelia" 
+      href="https://github.com/mycelia-tech/mycelia" 
       className="fixed top-0 right-0 z-50 border-0"
       aria-label="Fork me on GitHub"
       target="_blank"
